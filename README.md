@@ -14,3 +14,5 @@ git pull origin master
 git checkout master
 git merge test
 
+
+passando arquivos locais para remoto..
